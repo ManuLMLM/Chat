@@ -1,5 +1,6 @@
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\bin\Debug\net5.0\appsettings.json
+C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\bin\Debug\net5.0\libman.json
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\bin\Debug\net5.0\Chat.exe
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\bin\Debug\net5.0\Chat.deps.json
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\bin\Debug\net5.0\Chat.runtimeconfig.json
@@ -102,6 +103,8 @@ C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\staticwebassets
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Chat.TagHelpers.input.cache
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Chat.TagHelpers.output.cache
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Chat.RazorCoreGenerate.cache
+C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Razor\Views\Chat\Index.cshtml.g.cs
+C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Razor\Views\Chat\Room.cshtml.g.cs
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
@@ -118,6 +121,3 @@ C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\refint\Chat.dll
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Chat.pdb
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Chat.genruntimeconfig.cache
 C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\ref\Chat.dll
-C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Razor\Views\Chat\Index.cshtml.g.cs
-C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\bin\Debug\net5.0\libman.json
-C:\Users\luis_\OneDrive\Documentos\C#\Chat\Chat\obj\Debug\net5.0\Razor\Views\Chat\Room.cshtml.g.cs
